@@ -240,7 +240,7 @@ Accept wildcard characters: False
 ```
 
 ### -UseLegacyPushNotifications
-This parameter is reserved for Microsoft internal use only.
+When Legacy push Notification settings are enabled, notifications are only sent to Windows Phone. Push Notification via Google Cloud Messaging (GCM), and Apple Push Notification Service (APNS) are disabled
 
 ```yaml
 Type: Boolean
